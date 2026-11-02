@@ -34,3 +34,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.env
+.env.*
+!.env.example
+node_modules/
+vendor/
+.next/
+out/
+__pycache__/
+*.pyc
+*.log
+Thumbs.db
+.vscode/
+.idea/
+.netlify/
+.phpunit.cache/
+.phpunit.result.cache
